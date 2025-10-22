@@ -1,4 +1,4 @@
-![👋 Hi, I'm Sahil Mandre — Building Scalable Web Experiences](https://raw.githubusercontent.com/sahilmandre/sahilmandre/main/A_GitHub_README_profile_page_showcases_Sahil_Mandr.png)
+![👋 Hi, I'm Sahil Mandre — Building Scalable Web Experiences](https://github.com/sahilmandre/sahilmandre/blob/main/Generated%20Image%20October%2022,%202025%20-%2010_25PM.png?raw=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=sahilmandre&label=Profile%20views&color=0e75b6&style=flat)
 
